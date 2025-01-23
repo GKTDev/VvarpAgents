@@ -1,9 +1,9 @@
-# TankWork
+# Vvarp Network
 
 ![Version](https://img.shields.io/badge/version-v0.5.0--alpha-orange)
 
 ## Overview
-TankWork is an open-source desktop agent framework that enables AI to perceive and control your computer through computer vision and system-level interactions. Agents can:
+Vvarp Network is an open-source desktop agent framework that enables AI to perceive and control your computer through computer vision and system-level interactions. Agents can:
 
 * Control your computer directly through voice or text commands
 * Process real-time screen content using computer vision and expert skill routing
@@ -11,7 +11,7 @@ TankWork is an open-source desktop agent framework that enables AI to perceive a
 * Provide continuous audio-visual feedback and action logging
 * Switch seamlessly between assistant and computer control modes
 
-Built for developers and researchers working on autonomous desktop agents, TankWork combines advanced computer vision, voice processing, and system control to create AI agents that can truly understand, analyze, and interact with computer interfaces.
+Built for developers and researchers working on autonomous desktop agents, Vvarp Network combines advanced computer vision, voice processing, and system control to create AI agents that can truly understand, analyze, and interact with computer interfaces.
 
 ## Key Features
 - 🎯 Direct Computer Control - Voice and text command execution
@@ -35,8 +35,8 @@ Built for developers and researchers working on autonomous desktop agents, TankW
 ### 2. Clone Repository
 ```bash
 # Clone repository
-git clone https://github.com/AgentTankOS/tankwork.git
-cd tankwork
+git clone https://github.com/AgentTankOS/Vvarp Network.git
+cd Vvarp Network
 ```
 
 ### 3. Install Dependencies
@@ -136,7 +136,7 @@ Example Commands:
 
 ### Pre-configured Agents
 
-TankWork comes with four pre-configured agents, each with distinct personalities and specializations. You can add new agents and customize all agents.
+Vvarp Network comes with four pre-configured agents, each with distinct personalities and specializations. You can add new agents and customize all agents.
 
 
 #### 1. Gennifer
